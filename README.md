@@ -1,1 +1,1 @@
-# Instagram-Profiles-Dataset
+# Instagram Profiles Dataset
